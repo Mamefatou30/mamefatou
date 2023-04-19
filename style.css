@@ -1,0 +1,14 @@
+p,
+h1 {
+    color: rgb(238, 158, 171);
+    font-family: 'Montserrat' cursive;
+    font-size: 2em;
+    font-style: normal;
+}
+
+.ma-class {
+    color: rgb(158, 54, 71);
+    font-family: 'lobster' cursive;
+    font-size: 3em;
+    font-style: italic;
+}
